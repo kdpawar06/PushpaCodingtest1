@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-18T13:38:54 IST" name="Default suite" finished-at="2022-11-18T13:39:11 IST" duration-ms="17023">
+    <groups>
+    </groups>
+    <test started-at="2022-11-18T13:38:54 IST" name="Default test" finished-at="2022-11-18T13:39:11 IST" duration-ms="17023">
+      <class name="com.Testlayer.Imdbtest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Testlayer.Imdbtest@3ee37e5a]" started-at="2022-11-18T13:38:54 IST" name="setup" finished-at="2022-11-18T13:39:05 IST" duration-ms="10742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchonimdb()[pri:1, instance:com.Testlayer.Imdbtest@3ee37e5a]" started-at="2022-11-18T13:39:05 IST" name="searchonimdb" finished-at="2022-11-18T13:39:05 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchonimdb -->
+        <test-method signature="clickonthesearchbtn()[pri:2, instance:com.Testlayer.Imdbtest@3ee37e5a]" started-at="2022-11-18T13:39:05 IST" name="clickonthesearchbtn" finished-at="2022-11-18T13:39:10 IST" duration-ms="4906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonthesearchbtn -->
+        <test-method signature="scrolldownatdetails()[pri:3, instance:com.Testlayer.Imdbtest@3ee37e5a]" started-at="2022-11-18T13:39:10 IST" name="scrolldownatdetails" finished-at="2022-11-18T13:39:10 IST" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrolldownatdetails -->
+        <test-method signature="validatereleasedate()[pri:4, instance:com.Testlayer.Imdbtest@3ee37e5a]" started-at="2022-11-18T13:39:10 IST" name="validatereleasedate" finished-at="2022-11-18T13:39:11 IST" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatereleasedate -->
+        <test-method signature="validatecountry()[pri:5, instance:com.Testlayer.Imdbtest@3ee37e5a]" started-at="2022-11-18T13:39:11 IST" name="validatecountry" finished-at="2022-11-18T13:39:11 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatecountry -->
+      </class> <!-- com.Testlayer.Imdbtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
